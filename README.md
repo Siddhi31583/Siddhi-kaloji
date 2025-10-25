@@ -72,10 +72,10 @@ Expected Graduation: 2027
 Every project I create follows this cycle — from understanding a problem to delivering an AI solution that can be demonstrated and deployed.
 
 📬 Let's Connect
-LinkedIn: linkedin.com/in/siddhi-kaloji
+LinkedIn: https://www.linkedin.com/in/siddhi-kaloji-8a3833342/
 GitHub: github.com/siddhikaloji
 Email: siddhikaloji@gmail.com
-Portfolio Website: Coming soon 🚀
+Portfolio Website: https://siddhi-kaloji-ai-data-sc-tv3n5vv.gamma.site/ 🚀
 
 
 
